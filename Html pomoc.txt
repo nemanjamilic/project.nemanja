@@ -40,3 +40,4 @@ function showImage()
 	var promena = Math.floor(Math.random() * Lista.length);
 	document.write('<img src="' + Lista[promena] + '" width="400" height="400">');
 }
+Ovo je nova promena.
