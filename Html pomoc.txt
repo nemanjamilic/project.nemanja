@@ -1,0 +1,42 @@
+
+<html>
+<head><title> </title>
+
+</head>
+<script language="javascript">
+</script>
+<body>
+
+</body>
+</html>
+
+
+var slajd = new Array;
+slajd[0] = new Image; slajd[0].src = "slika1.jpg";
+slajd[1] = new Image; slajd[1].src = "slika2.jpg";
+slajd[2] = new Image; slajd[2].src = "slika3.jpg";
+slajd[3] = new Image; slajd[3].src = "slika4.jpg";
+slajd[4] = new Image; slajd[4].src = "slika5.jpg";
+
+function prikaz(Number)
+{
+	document.show.src = slajd[Number].src;
+	Number += 1;
+	if ( Number < slajd.length)
+	{
+		window.setTimeout("prikaz(" + Number + ")",1000);
+	}
+	else 
+	{
+		Number = 0;
+		window.setTimeout("prikaz(" + Number + ")",1000);
+	}
+}
+
+
+
+function showImage()
+{
+	var promena = Math.floor(Math.random() * Lista.length);
+	document.write('<img src="' + Lista[promena] + '" width="400" height="400">');
+}

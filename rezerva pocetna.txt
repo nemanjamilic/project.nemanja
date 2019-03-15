@@ -1,0 +1,87 @@
+<table border="0" width="100%">
+			<tr>
+				<td width="25%">
+					<div class="trecina">
+					
+						<center>
+						<div class="blok1">Ponuda</div></center>
+							<div class="blok2"> > <a>Letovanje 2018</a></div>
+							<div class="blok2"> > <a>Egzoticna putovanja</a></div>
+							<div class="blok2"> > <a>Evropski gradovi</a></div>
+							<div class="blok2"> > <a>Put u Ameriku</a></div>
+						
+						<center>
+						<div class="blok1">Radno vreme</div>	<br>
+							<div align="center"><font color="#896bea"><b>Ponedeljak-Petak: 7:00 - 20:00</b></font></div>
+							<div align="center"><font color="#896bea"><b>Vikend: 9:00 - 17:00</b></font></div>	<br>
+						</center>
+						
+						<center>
+						<div class="blok1">Pronadjite nas</div>
+							<img src="http://i68.tinypic.com/9qdwdk.jpg" width="95%" onmouseover="bright(this.id,0)" onmouseout="bright(this.id,1)" id="gsl" onclick="otvori()">
+						</center>
+						
+						<center>
+						<div class="blok1">Najtrazenije</div>
+							<img src="grcka.jpg" width="95%" class="prep" onmouseover="bright(this.id,0)" onmouseout="bright(this.id,1)" id="grc"><br>
+							<img src="turska.jpg" width="95%" class="prep" onmouseover="bright(this.id,0)" onmouseout="bright(this.id,1)" id="tur"><br>
+							<img src="italija.jpg" width="95%" class="prep" onmouseover="bright(this.id,0)" onmouseout="bright(this.id,1)" id="ita"><br>
+							<img src="crnag.jpg" width="95%" class="prep" onmouseover="bright(this.id,0)" onmouseout="bright(this.id,1)" id="crn"><br>
+							<img src="spanija.jpg" width="95%" class="prep" onmouseover="bright(this.id,0)" onmouseout="bright(this.id,1)" id="spa"><br>
+							<img src="hawaii.jpg" width="95%" class="prep" onmouseover="bright(this.id,0)" onmouseout="bright(this.id,1)" id="haw"><br>
+						</center>
+					</div>
+				</td>
+				<td width="50%" valign="top">
+					<div class="trecina">
+						<center> 
+							<div class="slajd" id="slajd"></div>
+							<div class="male"><table width="100%">
+								<tr>
+									<td width="33%">	<img src="mala1.jpg" width="100%" onmouseover="bright(this.id,0)" onmouseout="bright(this.id,1)" id="m1">	</td>
+									<td width="33%">	<img src="mala2.jpg" width="100%" onmouseover="bright(this.id,0)" onmouseout="bright(this.id,1)" id="m2">	</td>
+									<td width="33%">	<img src="mala3.jpg" width="100%" onmouseover="bright(this.id,0)" onmouseout="bright(this.id,1)" id="m3">	</td>
+								</tr>
+							</table></div>
+							
+							<div class="slika3"><img src="pariz.jpg" width="100%" onmouseover="bright(this.id,0)" onmouseout="bright(this.id,1)" id="par"></div>
+						</center>
+					</div>
+				</td>
+				<td width="25%" valign="top">
+					<div class="trecina">
+						<center>
+						<div class="blok1">Nasa preporuka</div>
+							<img src="ddg.jpg" width="95%" class="prep" onmouseover="bright(this.id,0)" onmouseout="bright(this.id,1)" id="ddg"><br>
+							<img src="izvor.jpg" width="95%" class="prep" onmouseover="bright(this.id,0)" onmouseout="bright(this.id,1)" id="izv"><br>
+							<img src="dubai.jpg" width="95%" class="prep" onmouseover="bright(this.id,0)" onmouseout="bright(this.id,1)" id="dub"><br>
+							<img src="italija10.jpg" width="95%" class="prep" onmouseover="bright(this.id,0)" onmouseout="bright(this.id,1)" id="ita10"><br>
+							<img src="kina.jpg" width="95%" class="prep" onmouseover="bright(this.id,0)" onmouseout="bright(this.id,1)" id="kin"><br>
+							
+						<div class="blok1">Rezervisite odmah</div>
+							<div align="center"><font color="#896bea"><b>011/328-4293</b></font></div>
+							<div align="center"><font color="#896bea"><b>011/328-4953</b></font></div>
+							<div align="center"><font color="#896bea"><b>011/324-7821</b></font></div>
+							<div align="center"><font color="#896bea"><b>011/324-6591</b></font></div>
+							
+						</center>	
+						
+						<div class="blok1">Usluge</div>
+							<div class="blok2"> > <a>Putno osiguranje</a></div>
+							<div class="blok2"> > <a>Autobuski prevoz</a></div>
+							<div class="blok2"> > <a>Organizovanje obilazaka</a></div>
+							
+						<center>	
+						
+							<div class="blok1">~ o ~</div>
+							<br>
+							<div class="govor">"Putujte sa nama <br><br>na nezaboravno putovanje.<br><br>Sigurno,jeftino,kvalitetno<br> <br>samo sa<br><br><b>Bongtravel</b>"</div>
+						</center>
+					</div>
+				</td>
+			</tr>
+		</table>
+		
+		<div class="futer">
+			<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+		</div>
